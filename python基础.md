@@ -4,12 +4,12 @@
 在 Python 中，变量就是变量，它没有类型，我们所说的"类型"是变量所指的内存中对象的类型。
 
        6种数据类型
->	~Number（数字）
+>	Number（数字）
 >	String（字符串）
 >	List（列表）
 >	Tuple（元组）
 >	Sets（集合）
->	Dictionary（字典）~
+>	Dictionary（字典）
 
 Python3 支持 int、float、bool、complex（复数）。常见就是==int float bool==
 
