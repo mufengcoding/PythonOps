@@ -13,3 +13,14 @@ cpyhton  jython ipython iropyhton
 
 yum install pyhton
 
+python中加了引号的就是字符串
+引号要成双成对
+单双引号只适合当行
+多引号适合多行
+
+
+字符串只能和字符串相加
+字符串只能加和乘
+
+字符串也不能和字符串相乘
+
