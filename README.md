@@ -1,2 +1,4 @@
-# studypython
-记录学习python相关经历,心路历程
+## python编程快速上手
+
+## Todo
+1.3月底之前学完第一章Python基础
