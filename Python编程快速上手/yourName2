@@ -1,0 +1,6 @@
+while True:
+    print("please type your name!")
+    name = input()
+    if name == 'God':
+        break
+print("闯关成功")
