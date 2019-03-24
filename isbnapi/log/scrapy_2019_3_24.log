@@ -1,0 +1,2 @@
+2019-03-24 21:24:22 [scrapy.utils.log] INFO: Scrapy 1.6.0 started (bot: isbnapi)
+2019-03-24 21:24:22 [scrapy.utils.log] INFO: Versions: lxml 4.2.5.0, libxml2 2.9.8, cssselect 1.0.3, parsel 1.5.1, w3lib 1.20.0, Twisted 18.9.0, Python 3.7.0 (default, Jul 23 2018, 20:22:55) - [Clang 9.1.0 (clang-902.0.39.2)], pyOpenSSL 19.0.0 (OpenSSL 1.1.0i  14 Aug 2018), cryptography 2.3.1, Platform Darwin-18.2.0-x86_64-i386-64bit
